@@ -3,7 +3,7 @@ public class Main {
         /**
          * @param args
          */
-        publlolid main(String[] args) {
+        public static void main(String[] args) {
                 Calculatrice calculette = new Calculatrice();
  
         }
