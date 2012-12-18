@@ -4,7 +4,11 @@ import java.awt.Dimension;	// dimensions
 import java.awt.Font;	// police
 import java.awt.event.ActionEvent;	
 import java.awt.event.ActionListener;
+<<<<<<< HEAD
 // commentaire
+=======
+// test commit
+>>>>>>> bf258c9a503423b614daf4684f67c404a361ebc4
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JFrame;
