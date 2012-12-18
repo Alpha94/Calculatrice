@@ -4,7 +4,7 @@ import java.awt.Dimension;	// dimensions
 import java.awt.Font;	// police
 import java.awt.event.ActionEvent;	
 import java.awt.event.ActionListener;
-
+// commentaire
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JFrame;
