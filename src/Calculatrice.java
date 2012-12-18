@@ -5,10 +5,14 @@ import java.awt.Font;	// police
 import java.awt.event.ActionEvent;	
 import java.awt.event.ActionListener;
 <<<<<<< HEAD
+<<<<<<< HEAD
 // commentaire
 =======
 // test commit
 >>>>>>> bf258c9a503423b614daf4684f67c404a361ebc4
+=======
+
+>>>>>>> parent of 28045f4... Ajout commentaire
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JFrame;
